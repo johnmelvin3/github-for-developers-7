@@ -4,6 +4,6 @@
 
 **Favorite Food:** Mabo Tofu
 
-**Favorite Color:** Purple or Red
+**Favorite Color:** Purple
 
 **Hobby:** Making games with RPG Maker MV
