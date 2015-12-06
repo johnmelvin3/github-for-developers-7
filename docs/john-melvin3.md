@@ -6,4 +6,6 @@
 
 **Favorite Color:** Purple
 
+**Preferred Development Language:** JavaScript
+
 **Hobby:** Making games with RPG Maker MV
